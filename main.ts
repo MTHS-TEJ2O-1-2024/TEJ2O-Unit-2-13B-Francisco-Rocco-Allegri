@@ -1,8 +1,8 @@
 /* Copyright (c) 2020 MTHS All rights reserved
  *
- * Created by: Mr. Coxall
- * Created on: Sep 2020
+ * Created by: Francisco Rocco Allegri
+ * Created on: Oct 2024
  * This program ...
 */
 
-basic.showString('Hello, World!')
+basic.clearScreen()
